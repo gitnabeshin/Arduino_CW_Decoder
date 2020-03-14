@@ -12,8 +12,9 @@
   * Arduino Nano
   * LCD1602 (I2S)
   * Speaker
-  * 4 Menu Button
+  * 4 Buttons
   * Battery
+  * Card board case
 
 ## Schema
 
